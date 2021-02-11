@@ -1,6 +1,6 @@
 {
   "name": "copy-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Output html file to standard output. You can copy and use them. ## install ``` npm install copyhtml ``` ## custmize",
   "main": "index.js",
   "scripts": {
