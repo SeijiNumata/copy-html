@@ -7,8 +7,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Seiji Numata <seizi.numata@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "dog-cat-photo": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeijiNumata/copy-html.git"
+  },
+  "keywords": [
+    "copy",
+    "html"
+  ],
+  "bin": {
+    "copy-html": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/SeijiNumata/copy-html/issues"
+  },
+  "homepage": "https://github.com/SeijiNumata/copy-html#readme"
 }
